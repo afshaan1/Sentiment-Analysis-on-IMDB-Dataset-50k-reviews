@@ -1,5 +1,6 @@
 # Sentiment-Analysis-on-IMDB-Dataset-50k-reviews
-Download the Dataset from the below Kaggle link
+Download the Dataset from the below Kaggle link.
+
 https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 About Dataset : The dataset consists of 50k movie reviews with their sentiments such as positive and negative. We have a balanced amount of data for both positive and negative comments.
